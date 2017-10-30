@@ -25,7 +25,7 @@ dependencies {
     androidTestCompile 'com.android.support.test:runner:1.0.1'
     androidTestCompile 'com.android.support.test:rules:1.0.1'
     androidTestCompile 'com.android.support.test.uiautomator:uiautomator-v18:2.1.2'
-    androidTestCompile 'pl.pragmatists:JUnitParams:1.1.0'
+    androidTestCompile 'pl.pragmatists:JUnitParams:1.1.1-SNAPSHOT'
     testCompile 'junit:junit:4.12'
-    testCompile 'pl.pragmatists:JUnitParams:1.1.0'
+    testCompile 'pl.pragmatists:JUnitParams:1.1.1-SNAPSHOT'
 }
